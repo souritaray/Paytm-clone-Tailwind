@@ -20,9 +20,9 @@ I have made Paytm clone with the help of HTML and CSS Tailwind. It is mobile res
 ## What have I learnt in this project?
 
 In this project I have got in-depth knowledge about 
--Tailwind classes
--hover effects on buttons.
--transition and animation effects on cards.
+- Tailwind classes
+- hover effects on buttons.
+- transition and animation effects on cards.
 
 ## Time required to complete the project
 

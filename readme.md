@@ -1,4 +1,4 @@
-# Law Home Page 
+# PAYTM CLONE
 ![Link](https://img.shields.io/badge/Technology%20Used%3A-HTML%2FCSS-blue)
 
 ![Link](https://img.shields.io/badge/Framework%20Used%3A-Tailwind-pink)
@@ -29,7 +29,7 @@ In this project I have got in-depth knowledge about
 More than 2 days
 
 ## Live link
-
+[Paytm Clone](https://paytm-clone-souritaray.netlify.app/)
 
 
 ## Contact me on:
